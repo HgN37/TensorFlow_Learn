@@ -6,7 +6,7 @@ OS Ubuntu 16.04
 Học từ https://www.udacity.com/course/deep-learning--ud730
 
 ## first_sklearn.py
-Test thu co ban ML. De co khai niem
+Test tthử cơ bản về Machine Learning để có khái niệm.
 
 ## Iris Example
 Thử training máy với bộ data Iris
