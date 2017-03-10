@@ -17,4 +17,4 @@ Học luồng của Machine Learning.
 ## first_classifier.py
 Tự viết classifier đầu tiên dựa theo cấu trúc của pineline. Sử dụng thuật toán KNN.
 
-## Assignment 1: MNIST
+## Assignment 1: notMNIST
